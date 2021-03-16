@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding crazy ideas, that take too much of my spare time
 - 💻 My knowledge:
   - Java and JavaFX(only 2D)
-  - HTML, PHP, CSS, JS
+  - PHP, CSS, JS
   - Electron
 - 🌱 I’m currently studying Verwaltungsinformatik at the HföD and Hochschule Hof
 - 📝 Projects I worked on:

@@ -10,7 +10,6 @@
   - virtual-machine-Assembler: A small Electron programm for everyone who wants to learn the basics of Assembler like languages
   - Dimension-Collapse: This was planed to be game, but it was discontinued in the first month, because of lack of communication
   - [VInf Grade](https://altraugsburg.github.io/VInf-Grade): A simple webtool for VInf students at HföD Bavaria to calculate their grade (currently in Beta)
-- 🤫 Right now, in my spare time, I'm working on a game with my own little game engine (if you can call it that) completly coded in Java (will probably end as a proof of concept)
 - 📫 How to reach me: vma@ladon.xyz (Mailadress of the virtual-machine-Assembler Project)
 
 <!---

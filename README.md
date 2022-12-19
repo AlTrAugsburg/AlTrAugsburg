@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Albert Traut alias @AlTrAugsburg
 - 👀 I’m interested in coding crazy ideas, that take too much of my spare time
 - 💻 My knowledge:
-  - Java and JavaFX(only 2D)
+  - Java
   - PHP, CSS, JS
   - Electron
+  - ForgeRock AM (AM410)
 - 🌱 I studied Verwaltungsinformatik at the HföD and Hochschule Hof
 - 🏢 Right now I'm working for the Bavarian goverment in the IT
 - 📝 Projects I worked on:

@@ -10,8 +10,8 @@
 - 📝 Projects I worked on:
   - virtual-machine-Assembler: A small Electron programm for everyone who wants to learn the basics of Assembler like languages
   - Dimension-Collapse: This was planed to be game, but it was discontinued in the first month, because of lack of communication
-  - [VInf Grade](https://altraugsburg.github.io/VInf-Grade): A simple webtool for VInf students at HföD Bavaria to calculate their grade (currently in Beta)
-- 📫 How to reach me: vma@ladon.xyz (Mailadress of the virtual-machine-Assembler Project)
+  - VInf Grade: A simple webtool for VInf students at HföD Bavaria to calculate their grade, development discontinued
+- ✨ What's next for me? Time will tell...
 
 <!---
 AlTrAugsburg/AlTrAugsburg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

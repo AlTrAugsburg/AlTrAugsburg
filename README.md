@@ -9,7 +9,6 @@
 - 🏢 Right now I'm working for the Bavarian goverment in the IT
 - 📝 Projects I worked on:
   - virtual-machine-Assembler: A small Electron programm for everyone who wants to learn the basics of Assembler like languages
-  - Dimension-Collapse: This was planed to be game, but it was discontinued in the first month, because of lack of communication
   - VInf Grade: A simple webtool for VInf students at HföD Bavaria to calculate their grade, development discontinued
 - ✨ What's next for me? Time will tell...
 

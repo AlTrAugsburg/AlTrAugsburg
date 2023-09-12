@@ -10,6 +10,7 @@
 - 📝 Projects I worked on:
   - virtual-machine-Assembler: A small Electron programm for everyone who wants to learn the basics of Assembler like languages
   - VInf Grade: A simple webtool for VInf students at HföD Bavaria to calculate their grade, development discontinued
+  - Some scripts, that I use: https://gist.github.com/AlTrAugsburg
 - ✨ What's next for me? Time will tell...
 
 <!---

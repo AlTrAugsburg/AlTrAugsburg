@@ -4,7 +4,7 @@
   - Java
   - PHP, CSS, JS
   - Electron
-  - ForgeRock AM (AM410)
+  - ForgeRock AM/PingAM (AM410)
 - 🌱 I studied Verwaltungsinformatik at the HföD and Hochschule Hof
 - 🏢 Right now I'm working for the Bavarian goverment in the IT
 - 📝 Projects I worked on:
